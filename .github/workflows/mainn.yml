@@ -27,7 +27,7 @@ jobs:
           # Options
           user: jackvvl
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, community, repositories, metadata
           base_hireable: yes
           base_indepth: yes
           base_skip: yes
