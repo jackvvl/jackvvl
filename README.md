@@ -3,10 +3,8 @@
 
 
 <div class="contenedor">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&width=480&lines=Jacqueline+Villa" alt="Typing SVG" /></a>  
-
-
-
+  <img src="Jacqueline Villa.gif">
+</div>
 
 
 <table>
