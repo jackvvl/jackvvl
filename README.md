@@ -31,7 +31,7 @@
 </tr>
 <tr>
   <td>
-    <img src="https://github.com/oSumAtrIX/oSumAtrIX/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+    <img src="/github-metrics.svg" alt="Metrics" width="100%">
   </td>
 </tr>
 </table>
