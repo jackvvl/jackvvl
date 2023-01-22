@@ -1,6 +1,6 @@
 <div class="contenedor">
   
-  <img src="3.jpg">
+  <img src="3.png">
 
 </div>
 
