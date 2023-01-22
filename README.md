@@ -8,16 +8,7 @@
 
 
 <table>
-  <tr>
-    <td align=center>
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FoSumAtrIX&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false">
-      <img src="https://img.shields.io/github/followers/oSumAtrIX">
-      <img src="https://img.shields.io/reddit/user-karma/combined/oSumAtrIX?style=social">
-      <img src="https://img.shields.io/twitter/follow/oSumAtrIX?style=social">
-      <img src="https://img.shields.io/youtube/channel/views/UCk9pnU2BGmIafksQPvTJfuA?style=social">
-      <img src="https://img.shields.io/github/stars/oSumAtrIX?style=social">
-    </td>
-  </tr>
+
   <tr>
     <td>
       My interests and expertise expand from graphics-, motion- and sound design in dedicated software like Adobe Suite and Image-Line FL Studio up to programming in lots of different languages like <b>C#</b>, <b>Rust</b>, <b>Kotlin</b>, <b>Java</b>, <b>PHP</b>, <b>HTML</b>, <b>JavaScript</b>, <b>CSS</b>, <b>MySQL</b>, <b>Objective-C</b>, <b>C</b>, <b>Python</b> and <b>Visual Basic</b>, with the first
