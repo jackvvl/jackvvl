@@ -1,8 +1,16 @@
 <div class="contenedor">
-  
-  <img src="3vs2.png">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&width=480&lines=Jacqueline+Villa" alt="Typing SVG" /></a>  
 
 </div>
+
+<style>
+.contenedor{
+background-image: url(3vs2.png);
+background-position: center center;
+  }
+  </style>
+
+
 
 <table>
   <tr>
