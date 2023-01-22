@@ -10,6 +10,12 @@
 <table>
 
   <tr>
+  <td>
+    <img src="/github-metrics.svg" alt="Metrics" width="100%">
+  </td>
+</tr>
+  
+  <tr>
     <td>
       My interests and expertise expand from graphics-, motion- and sound design in dedicated software like Adobe Suite and Image-Line FL Studio up to programming in lots of different languages like <b>C#</b>, <b>Rust</b>, <b>Kotlin</b>, <b>Java</b>, <b>PHP</b>, <b>HTML</b>, <b>JavaScript</b>, <b>CSS</b>, <b>MySQL</b>, <b>Objective-C</b>, <b>C</b>, <b>Python</b> and <b>Visual Basic</b>, with the first
       being my most and last being my least used languages. I mostly use my brief time productively, but if I don't, then I usually play chess, osu!, or Krunker.
@@ -28,9 +34,5 @@
 <tr>
   <td>⚡ Fun fact: I also play drums and guitar</td>
 </tr>
-<tr>
-  <td>
-    <img src="/github-metrics.svg" alt="Metrics" width="100%">
-  </td>
-</tr>
+
 </table>
