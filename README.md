@@ -1,11 +1,3 @@
-<link href="/style.css" rel="stylesheet" type="text/css">
-
-
-
-<div class="contenedor">
-  <img src="Jacqueline Villa.gif">
-</div>
-
 
 <table>
 
@@ -14,6 +6,10 @@
     <img src="/github-metrics.svg" alt="Metrics" width="100%">
   </td>
 </tr>
+  
+  <div class="contenedor">
+  <img src="Jacqueline Villa.gif">
+</div>
   
   <tr>
     <td>
