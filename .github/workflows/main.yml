@@ -15,3 +15,9 @@ jobs:
       - uses: jackvvl/metrics@master
         with:
           token: ${{ secrets.TOKEN_PERFIL }}
+#comienzo de las cositas importantes
+          user: jackvvl
+          template: classic
+          config_display: columns
+          base: header, activity, community, repositories
+          config_timezone: America/Argentina
