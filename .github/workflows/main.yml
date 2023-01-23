@@ -21,10 +21,11 @@ jobs:
           user: jackvvl
           template: classic
           config_display: columns
-          base: header, community
+          base: header, community, activity
           commits_authoring: jackvvl
           config_timezone: America/Argentina
           #acá las cosas (revisar)
+          
           
           plugin_achievements: yes
           plugin_achievements_display: compact
