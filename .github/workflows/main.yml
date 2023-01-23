@@ -21,7 +21,7 @@ jobs:
           user: jackvvl
           template: classic
           config_display: columns
-          base: header, community, activity
+          base: header
           commits_authoring: jackvvl
           config_timezone: America/Argentina
           #acá las cosas (revisar)
@@ -58,11 +58,7 @@ jobs:
           plugin_lines: yes
                   
           
-          #skyline
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_year: current-year
+          
           
           #starred repositories
           plugin_stars: yes
