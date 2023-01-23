@@ -21,7 +21,7 @@ jobs:
           user: jackvvl
           template: classic
           config_display: columns
-          base: header
+          base: header, community, repositories
           commits_authoring: jackvvl
           config_timezone: America/Argentina
           #acá las cosas (revisar)
