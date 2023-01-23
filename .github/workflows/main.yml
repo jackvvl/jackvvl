@@ -21,10 +21,10 @@ jobs:
           user: jackvvl
           template: classic
           config_display: columns
-          base: header, activity, community
+          base: header, community
           commits_authoring: jackvvl
           config_timezone: America/Argentina
-          #acá las cosas copiadas(revisar)
+          #acá las cosas (revisar)
           
           plugin_achievements: yes
           plugin_achievements_display: detailed
@@ -33,11 +33,13 @@ jobs:
           
           plugin_followup: yes
           plugin_followup_sections: repositories
+          
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_trim: yes
+          
           plugin_introduction: yes
           plugin_introduction_title: yes
           
