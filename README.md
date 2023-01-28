@@ -3,8 +3,8 @@
 </div>
 
 <div>
-  <img src="/metrics1.svg" width="49%"  align="top" />
-  <img src="/metrics2.svg" width="49%" />
+  <img src="/metrics1.svg" width="50%"  align="top" />
+  <img src="/metrics2.svg" width="50%" />
 </div>
 
 <div class="contenedor">
