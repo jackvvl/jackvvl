@@ -21,7 +21,7 @@ jobs:
           # Options
           filename: metrics1.svg
           user: jackvvl
-          base: header, activity, repositories, 
+          base: header, repositories, community
           config_timezone: Argentina/America
           
           plugin_habits: yes
@@ -29,6 +29,7 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
+          
           
           #languages
           plugin_languages: yes
@@ -39,6 +40,8 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_lines: yes
 
 
       - name: Metrics 2
