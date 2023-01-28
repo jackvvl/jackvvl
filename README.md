@@ -8,7 +8,7 @@
 </div>
 
 <div class="contenedor">
-<img src="3vs4.png" align="center">
+<img src="3vs4.png" align="top">
 </div>
 
 
