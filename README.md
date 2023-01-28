@@ -1,7 +1,7 @@
 <div class="parte_de_arriba">
 <img src="22.png">
 </div>
-<h3 align="center">Holaa</h3>
+<h3 align="left">Holaa</h3>
 
 
 <div>
