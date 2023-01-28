@@ -10,6 +10,6 @@
 
 
 <div>
-  <img src="/metrics1.svg" width="49%"  />
-  <img src="/metrics2.svg" width="49%" />
+  <img src="/metrics1.svg" width="47%"  />
+  <img src="/metrics2.svg" width="47%" />
 </div>
