@@ -1,9 +1,8 @@
 <div class="parte_de_arriba">
 <img src="22.png">
 </div>
-# HELLO!❣❣❣
-# Holaa
-<
+<h3 align="center">Holaa</h3>
+
 
 <div>
   <img src="/metrics1.svg" width="48%" align="top" />
@@ -14,7 +13,6 @@
 <img src="3vs4.png" align="top">
 </div>
 
-<h3 align="center">A passionate developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackvvl&label=Profile%20views&color=0e75b6&style=flat" alt="jackvvl" /> </p>
 
