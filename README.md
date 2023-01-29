@@ -2,11 +2,12 @@
 <img src="22.png">
 </div>
 
+<img height="420" width="500" alt="GIF" align="right" src="/― 𝘵𝘢𝘦𝘯𝘰𝘴𝘩 🌫.jpg">
+
 
 # <div align="left">About ME 💬 </div>  
  
 
-<img height="420" width="500" alt="GIF" align="right" src="/― 𝘵𝘢𝘦𝘯𝘰𝘴𝘩 🌫.jpg">
 
 Hi I'm Jack a 15 years old passionate developer💻  
   
