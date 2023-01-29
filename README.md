@@ -3,17 +3,6 @@
 </div>
 
 
-<div>
-  <img src="/metrics1.svg" width="48%" align="top" />
-  <img src="/metrics2.svg" width="48%"  />
-</div>
-
-<div class="contenedor">
-<img src="3vs4.png" align="top">
-</div>
-
-
-
 # <div align="left">About ME 💬 </div>  
  
 
@@ -40,8 +29,14 @@ Hi I'm Jack a 15 years old passionate developer💻
 
 
 
+<div>
+  <img src="/metrics1.svg" width="48%" align="top" />
+  <img src="/metrics2.svg" width="48%"  />
+</div>
 
-
+<div class="contenedor">
+<img src="3vs4.png" align="top">
+</div>
 
 
 
