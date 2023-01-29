@@ -15,7 +15,7 @@
 
 
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://images.pexels.com/photos/213399/pexels-photo-213399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+<img hight="400" width="500" alt="GIF" align="left" src="https://images.pexels.com/photos/213399/pexels-photo-213399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
 
 
 
