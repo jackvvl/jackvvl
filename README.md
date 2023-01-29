@@ -14,7 +14,6 @@
 
 
 
-<table><tr><td valign="top" width="50%">
 
 <img src="https://images.pexels.com/photos/213399/pexels-photo-213399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" align="left" height="400" width="220" />  
   
