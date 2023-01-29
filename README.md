@@ -22,7 +22,6 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=jackvvl&&style=flat-square)  
 
 
-</td><td valign="top" width="50%">
 
 ## <div align="center">About ME 💬 </div>  
   
@@ -44,15 +43,10 @@ Hi I'm Jack a 15 years old passionate developer💻
 - ⚡ I love to learn new things!!!**  
 
 
-</td></tr></table>
-<br />
 
 
 <p align="left">
-  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=jackvvl&&style=flat-square" align="left" />
-</div> 
+
 
 
 
