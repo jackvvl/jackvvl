@@ -15,14 +15,16 @@
 
 
 
-<img height="420" width="300" alt="GIF" align="left" src="https://images.pexels.com/photos/213399/pexels-photo-213399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+
 
 
 
 
 
 ## <div align="center">About ME 💬 </div>  
-  
+ 
+
+<img height="420" width="300" alt="GIF" align="left" src="https://images.pexels.com/photos/213399/pexels-photo-213399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
 
 Hi I'm Jack a 15 years old passionate developer💻  
   
