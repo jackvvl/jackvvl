@@ -1,4 +1,7 @@
 
+<div class="parte_de_arriba">
+<img src="22.png">
+</div>
 
 <img height="420" width="500" alt="GIF" align="right" src="/― 𝘵𝘢𝘦𝘯𝘰𝘴𝘩 🌫.jpg">
 
@@ -26,9 +29,6 @@ Hi I'm Jack a 15 years old passionate developer💻
 ![Profile views counter](https://komarev.com/ghpvc/?username=jackvvl&&style=flat-square)  
 
 
-<div class="parte_de_arriba">
-<img src="22.png">
-</div>
 
 <div>
   <img src="/metrics1.svg" width="48%" align="top" />
