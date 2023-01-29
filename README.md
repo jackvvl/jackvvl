@@ -34,7 +34,7 @@
 <p align="left">
   
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=jackvvl&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=jackvvl&&style=flat-square" align="left" />
 </div> 
 
 <h3 align="left">Languages and Tools:</h3>
