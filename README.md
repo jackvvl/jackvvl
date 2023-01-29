@@ -14,14 +14,13 @@
 
 # About ME 💬 :
 
-### - I'm 16 years  old passionate developer.
+### - I'm 16 years old passionate developer.
 
 
-### - Learning :
+### - Learning :                                
 - ✨ Javascript 
 - ✨ Phyton
-- ✨ Generative Adversarial Networks
-
+- 
 ### - Hobbies : 
 - ✨ Guitar
 - ✨ Crochet
@@ -30,7 +29,7 @@
 - ✨ Taekwondo
 - ⚡ I love languages!!!**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
   
 <div align="center">
