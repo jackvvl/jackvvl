@@ -1,7 +1,6 @@
 <div class="parte_de_arriba">
 <img src="22.png">
 </div>
-<h1 align="left">🌼HOLAA🌼</h1>
 
 
 <div>
@@ -13,11 +12,25 @@
 <img src="3vs4.png" align="top">
 </div>
 
+# About ME 💬 :
+
+### - I'm 16 years  old passionate developer.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Learning :
+- ✨ Javascript 
+- ✨ Phyton
+- ✨ Generative Adversarial Networks
+
+### - Hobbies : 
+- ✨ Guitar
+- ✨ Crochet
+- ✨ Watch series
+- ✨ Draw
+- ✨ Taekwondo
 
 
-- 🔭 I’m currently working on **my portfolio**
-
-- 🌱 I’m currently learning **CS50's Web Programming**
 
 - ⚡ I love languages!!!**
 
