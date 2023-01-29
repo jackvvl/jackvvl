@@ -3,7 +3,7 @@
 <img src="22.png">
 </div>
 
-<img height="420" width="500" alt="GIF" align="right" src="/― 𝘵𝘢𝘦𝘯𝘰𝘴𝘩 🌫.jpg">
+<img height="420" width="500" alt="GIF" align="right" src="/imagenes/descargar (36).jpg">
 
 
 # <div align="left">About ME 💬 </div>  
