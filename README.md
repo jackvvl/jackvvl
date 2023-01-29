@@ -23,7 +23,7 @@
 
 Hi I'm Jack a 15 years old passionate developer💻  
   
-  <div align="right">
+  <div align="center">
 ### - I'm passing my time in :
 - ✨ Javascript
 - ✨ Phyton
