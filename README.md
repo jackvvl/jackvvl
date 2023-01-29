@@ -16,11 +16,6 @@
 
 
 
-
-
-
-
-
 ## <div align="center">About ME 💬 </div>  
  
 
@@ -29,17 +24,16 @@
 Hi I'm Jack a 15 years old passionate developer💻  
   
 
- ### - I'm passing my time in :
+### - I'm passing my time in :
 - ✨ Javascript
 - ✨ Phyton
 
-
-  ###    - Hobbies : 
-- ✨ Guitar
+### - Hobbies : 
+- ✨ Play the guitar
 - ✨ Crochet
 - ✨ Watch series
 - ✨ Draw
-- ✨  Taekwondo
+- ✨ Taekwondo
 - ⚡ I love to learn new things!!!**  
 
 
