@@ -23,12 +23,12 @@
 
 Hi I'm Jack a 15 years old passionate developer💻  
   
-### - I'm passing my time in :
+# - I'm passing my time in :
 - ✨ Javascript
 - ✨ Phyton
   
 
-### - Hobbies : 
+# - Hobbies : 
 - ✨ Play the guitar
 - ✨ Crochet
 - ✨ Watch series
@@ -36,9 +36,7 @@ Hi I'm Jack a 15 years old passionate developer💻
 - ✨ Taekwondo
 - ⚡ I love to learn new things!!!**  
 
-</br>
-</br>
-</br>
+}
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=jackvvl&&style=flat-square)  
 
