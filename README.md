@@ -17,7 +17,7 @@
 # <div align="left">About ME 💬 </div>  
  
 
-<img height="420" width="500" alt="GIF" align="right" src="/descargar (34).jpg">
+<img height="420" width="500" alt="GIF" align="right" src="/descargar (35).jpg">
 
 Hi I'm Jack a 15 years old passionate developer💻  
   
