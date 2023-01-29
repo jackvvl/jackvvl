@@ -14,7 +14,6 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jackvvl&label=Profile%20views&color=0e75b6&style=flat" alt="jackvvl" /> </p>
 
 - 🔭 I’m currently working on **my portfolio**
 
