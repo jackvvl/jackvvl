@@ -14,8 +14,6 @@
 
 
 
-
-
 # <div align="left">About ME 💬 </div>  
  
 
@@ -36,7 +34,7 @@ Hi I'm Jack a 15 years old passionate developer💻
 - ✨ Taekwondo
 - ⚡ I love to learn new things!!!**  
 
-}
+
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=jackvvl&&style=flat-square)  
 
