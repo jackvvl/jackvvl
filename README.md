@@ -19,16 +19,14 @@
 ## <div align="center">About ME 💬 </div>  
  
 
-<img height="420" width="300" alt="GIF" align="left" src="https://images.pexels.com/photos/213399/pexels-photo-213399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+<img height="420" width="300" alt="GIF" align="right" src="https://images.pexels.com/photos/213399/pexels-photo-213399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
 
 Hi I'm Jack a 15 years old passionate developer💻  
   
-<p align="center">
 ### - I'm passing my time in :
 - ✨ Javascript
 - ✨ Phyton
   
-<p align="center">
 
 ### - Hobbies : 
 - ✨ Play the guitar
@@ -41,7 +39,6 @@ Hi I'm Jack a 15 years old passionate developer💻
 ![Profile views counter](https://komarev.com/ghpvc/?username=jackvvl&&style=flat-square)  
 
 
-<p align="left">
 
 
 
