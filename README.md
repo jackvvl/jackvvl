@@ -3,7 +3,7 @@
 <img src="22.png">
 </div>
 
-<img height="420" width="500" alt="GIF" align="right" src="/imagenes/e7dfa767-43f1-4e9b-9c8c-8b54411839db.jpg">
+<img height="420" width="500" alt="GIF" align="right" src="/imagenes/cab8521f-c9f2-447d-9f67-9faeabfa3598.jpg">
 
 
 # <div align="left">About ME 💬 </div>  
