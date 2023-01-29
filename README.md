@@ -12,22 +12,40 @@
 <img src="3vs4.png" align="top">
 </div>
 
-# About ME 💬 :
-
-### - I'm 16 years old passionate developer.
 
 
-### - Learning :                                
-- ✨ Javascript 
+<table><tr><td valign="top" width="50%">
+
+<img src="https://images.pexels.com/photos/213399/pexels-photo-213399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" align="left" height="400" width="220" />  
+  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=jackvvl&&style=flat-square)  
+
+
+</td><td valign="top" width="50%">
+
+## <div align="center">About ME 💬 </div>  
+  
+
+Hi I'm Jack a 15 years old passionate developer💻  
+  
+
+ ### - I'm passing my time in :
+- ✨ Javascript
 - ✨ Phyton
-- 
-### - Hobbies : 
+
+
+  ###    - Hobbies : 
 - ✨ Guitar
 - ✨ Crochet
 - ✨ Watch series
 - ✨ Draw
-- ✨ Taekwondo
-- ⚡ I love languages!!!**
+- ✨  Taekwondo
+- ⚡ I love to learn new things!!!**  
+
+
+</td></tr></table>
+<br />
 
 
 <p align="left">
