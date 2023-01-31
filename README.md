@@ -12,7 +12,7 @@
 
 Hi I'm Jack a 15 years old passionate developer💻  
   
-## - I'm passing my time in :
+## - Learning :
 - ✨ Javascript
 - ✨ Phyton
   
