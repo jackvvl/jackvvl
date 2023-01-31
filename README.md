@@ -3,7 +3,7 @@
 <img src="22.png">
 </div>
 
-<img height="420" width="500" alt="GIF" align="right" src="/descargar (38).jpg">
+<img height="420" width="500" alt="img" align="right" src="/imagenes/descargar (38).jpg">
 
 
 # <div align="left">About ME 💬 </div>  
