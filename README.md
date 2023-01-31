@@ -1,7 +1,4 @@
 
-<div class="parte_de_arriba">
-<img src="22.png">
-</div>
 
 <img height="420" width="500" alt="img" align="right" src="/imagenes/∞.jpg">
 
