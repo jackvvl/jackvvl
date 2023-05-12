@@ -7,8 +7,9 @@
  
 
 
-Hi I'm Jack a 15 years old passionate developer💻  
-  
+Holaa soy jaqui!
+
+
 ## - Learning :
 - ✨ Javascript
 - ✨ Phyton
