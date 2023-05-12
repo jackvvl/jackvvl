@@ -12,15 +12,7 @@ Hi I'm Jack a 15 years old passionate developer💻
 ## - Learning :
 - ✨ Javascript
 - ✨ Phyton
-  
-
-## - Hobbies : 
-- ✨ Play the guitar
-- ✨ Crochet
-- ✨ Watch series
-- ✨ Draw
-- ✨ Taekwondo
-- ⚡ I love to learn new things!!!**  
+- ✨ Kotlin
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=jackvvl&&style=flat-square)  
