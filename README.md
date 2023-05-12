@@ -1,6 +1,6 @@
 
 
-<img height="420" width="500" alt="img" align="right" src="/imagenes/∞.jpg">
+<img height="420" width="500" alt="img" align="right" src="gif1.gif">
 
 
 # <div align="left">About ME 💬 </div>  
