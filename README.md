@@ -2,10 +2,9 @@
 
 <img height="420" width="450" alt="img" align="right" src="gif2.gif">
 
-<h2>.----------.
-| pipipipi |
-'----------'
-</h2>
+
+##| pipipipi |
+ 
 # <div align="left">Sobre mi 💬 </div>  
 
  Holaa soy jaquiii
