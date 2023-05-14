@@ -3,7 +3,7 @@
 <img height="420" width="450" alt="img" align="right" src="gif2.gif">
 
 
-## | pipipipi |
+## | PIPIPIP |
  
 # <div align="left">Sobre mi 💬 </div>  
 
