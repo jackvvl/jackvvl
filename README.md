@@ -12,8 +12,8 @@
 
 ## - Aprendiendo :
 - ✨ Javascript
-- ✨ Phyton
-- ✨ Kotlin
+- ✨ c++
+
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=jackvvl&&style=flat-square)  
