@@ -4,7 +4,6 @@
 
 
  
-# <div align="left">Sobre mi 💬 </div>  
 
  Holaa soy jaquiii
 
