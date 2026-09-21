@@ -5,12 +5,7 @@
 
  
 
- Holaa soy jaquiii
-
-
-## - Aprendiendo :
-- ✨ Javascript
-- ✨ c++
+ Holaa 
 
 
 
