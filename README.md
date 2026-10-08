@@ -1,12 +1,11 @@
 
 
-<img height="420" width="450" alt="img" align="right" src="gif2.gif">
 
 
  
 
 
-<img width="1483" height="816" alt="aahub_2026-10-08T02-22-49" src="https://github.com/user-attachments/assets/7583e3c9-8f47-45f7-a82a-24a4740f1673" />
+<img width="1400" height="800" alt="aahub_2026-10-08T02-22-49" src="https://github.com/user-attachments/assets/7583e3c9-8f47-45f7-a82a-24a4740f1673" />
 
 ```
 <p align="center">
