@@ -2,9 +2,8 @@
 
 
 
- <p align="center">
-  <img src="https://github.com/user-attachments/assets/62cb91bd-1949-40da-b9de-785cf5514549" style="width: 100%; height: 220px; object-fit: cover; object-position: center;" alt="Dancing Cats Banner" />
-</p>
+<img width="397" height="201" alt="tenor-ezgif com-rotate" src="https://github.com/user-attachments/assets/b863e58e-9239-45f0-b13f-b4f85bd850b6" />
+
 
 
 
