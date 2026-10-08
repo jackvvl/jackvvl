@@ -1,9 +1,7 @@
 
 
 
-
-<img style="width: 100%; height: 220px; object-fit: cover; object-position: center;" alt="Dancing Cats Banner" src="https://github.com/user-attachments/assets/b863e58e-9239-45f0-b13f-b4f85bd850b6" />
-
+<img width="100%" src="https://github.com/user-attachments/assets/15cce71b-d01b-4364-985a-b7759ca25369" />
 
 
 
