@@ -39,12 +39,7 @@ int main() {
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Buenassss;:vvvvvvvvvvvvvvvvv" alt="Typing SVG" />
 </p>
 
-```text
-┌──(jackvvlㅿUNSL)-[~]
-└─$ cat status.txt
-> Estudiando Ciencias de la Computación
-> Escribiendo código y creando proyectos.
-```
+
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=jackvvl&&style=flat-square)  
 
