@@ -5,8 +5,7 @@
 
  
 
- <h1>Holaa</h1> 
-
+estudiante cs de la computacíon - UNSL
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=jackvvl&&style=flat-square)  
