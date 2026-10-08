@@ -4,8 +4,8 @@
 
  
 
+<img width="400" height="389" alt="tenor" src="https://github.com/user-attachments/assets/62cb91bd-1949-40da-b9de-785cf5514549" />
 
-<div class="tenor-gif-embed" data-postid="7553276227876407905" data-share-method="host" data-aspect-ratio="1.02469" data-width="100%"><a href="https://tenor.com/view/cat-dance-cat-kitten-kitten-dance-vibe-gif-7553276227876407905">Cat Dance Kitten GIF</a>from <a href="https://tenor.com/search/cat+dance-gifs">Cat Dance GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ```c
 #include <stdio.h>
