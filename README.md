@@ -5,8 +5,44 @@
 
  
 
-estudiante cs de la computacíon - UNSL
+#include <stdio.h>
 
+int main() {
+    char* status = "Se vienen cositas!!";
+    printf("Status: %s\n", status);
+    return 0;
+}
+Plaintext
+[UNSL] ----> [CS Student] ----> [Building...] ----> 🚀
+🔥 Opción 2: Versión con Glitch / ASCII Neo / Minimalista
+Si querés algo más artístico aún:
+
+Markdown
+<h1 align="center">
+  <pre>
+     ____.                     
+    |    |____    ____  ____   
+    |    \__  \  / ___|/  _ \  
+/\__|    |/ __ \|  \___(  <_> )
+\________(____  /\___  >\____/ 
+              \/     \/        
+  </pre>
+</h1>
+
+<p align="center">
+  <code><b>Computer Science Student @ UNSL</b></code>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=estudiante_cs_computacion_unsl;Se+vienen+cositas!!;loading_next_projects..." alt="Typing SVG" />
+</p>
+
+```text
+┌──(jackvvlㅿUNSL)-[~]
+└─$ cat status.txt
+> Estudiando Ciencias de la Computación
+> Escribiendo código y creando proyectos.
+```
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=jackvvl&&style=flat-square)  
 
