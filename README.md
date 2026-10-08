@@ -5,7 +5,7 @@
  
 
 
-<img width="1400" height="800" alt="aahub_2026-10-08T02-22-49" src="https://github.com/user-attachments/assets/7583e3c9-8f47-45f7-a82a-24a4740f1673" />
+<img width="734" height="241" alt="descargar (13)" src="https://github.com/user-attachments/assets/ac052137-59bc-4101-8b58-9066797eeeb3" />
 
 
 <p align="center">
