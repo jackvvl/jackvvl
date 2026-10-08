@@ -5,19 +5,7 @@
 
  
 
-#include <stdio.h>
 
-int main() {
-    char* status = "Se vienen cositas!!";
-    printf("Status: %s\n", status);
-    return 0;
-}
-Plaintext
-[UNSL] ----> [CS Student] ----> [Building...] ----> 🚀
-🔥 Opción 2: Versión con Glitch / ASCII Neo / Minimalista
-Si querés algo más artístico aún:
-
-Markdown
 <h1 align="center">
   <pre>
      ____.                     
