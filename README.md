@@ -1,5 +1,7 @@
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Buenassss;:vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv" alt="Typing SVG" />
+</p>
 
 <img width="100%" height="400" style="object-fit: cover;" src="https://github.com/user-attachments/assets/15cce71b-d01b-4364-985a-b7759ca25369"  />
 
@@ -32,9 +34,7 @@ int main() {
     return 0;
 }
 ```
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Buenassss;:vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv" alt="Typing SVG" />
-</p>
+
 
 
 
