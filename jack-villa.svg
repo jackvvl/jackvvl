@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 160" width="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Ultra&amp;display=swap');
+      
+      .title {
+        font-family: 'Ultra', serif;
+        font-size: 85px;
+        fill: #ff2a85;
+        letter-spacing: 4px;
+        text-anchor: middle;
+        filter: drop-shadow(0 0 12px rgba(255, 42, 133, 0.4));
+      }
+    </style>
+  </defs>
+  
+  <text class="title" x="500" y="115">JACK VILLA</text>
+</svg>
