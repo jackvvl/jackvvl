@@ -37,7 +37,7 @@
           10% { opacity: 0.9; }
           90% { opacity: 0.9; }
           /* Arreglado para que caiga de punta a punta en los 420px */
-          100% { transform: translateY(570px); opacity: 0; }
+          100% { transform: translateY(620px); opacity: 0; }
         }
       </style>
       
