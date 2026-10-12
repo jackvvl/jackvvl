@@ -38,8 +38,6 @@ int main() {
 
 
 
-![Profile views counter](https://komarev.com/ghpvc/?username=jackvvl&&style=flat-square)  
-
 
 
 <div>
