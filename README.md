@@ -1,3 +1,32 @@
+<div align="center">
+
+  <!-- Encabezado con efectos visuales en línea -->
+  <div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); border: 2px solid #30363d; border-radius: 16px; padding: 40px 20px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);">
+    
+    <!-- Título con degradado de texto y estilo llamativo -->
+    
+    <h1 style="font-family: monospace; font-size: 48px; font-weight: 900; letter-spacing: 6px; margin: 0; background: linear-gradient(90deg, #ffffff, #c084fc, #a855f7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 30px rgba(168,85,247,0.4);">
+      BUENASSSS
+    </h1>
+    
+    <!-- Subtítulo de desarrolladora -->
+    <p style="font-family: monospace; font-size: 14px; color: #8b949e; letter-spacing: 4px; margin-top: 15px; margin-bottom: 25px;">
+      // <span style="color: #c084fc;">JACQUELINE VILLA</span> &lt;computer-science-student&gt;
+    </p>
+
+    <!-- Badges o etiquetas de diseño en línea -->
+    <p style="margin: 0;">
+      <img src="https://img.shields.io/badge/UNSL-CS-a855f7?style=for-the-badge&logo=codeforces&logoColor=white" alt="UNSL" />
+      <img src="https://img.shields.io/badge/Status-Building_Things-21262d?style=for-the-badge&colorB=30363d" alt="Status" />
+      <img src="https://img.shields.io/badge/Music-Metal_%2F_Grunge-7928ca?style=for-the-badge" alt="Music" />
+    </p>
+
+  </div>
+
+</div>
+
+<br>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Buenassss;:vvvvvvvvvvvvvvvvvvvv" alt="Typing SVG" />
