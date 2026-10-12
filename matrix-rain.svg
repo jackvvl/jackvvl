@@ -61,6 +61,14 @@
       <div class="m-col" style="left: 80%; animation-duration: 2.0s; animation-delay: 1.7s;">010101BUILDING</div>
       <div class="m-col" style="left: 88%; animation-duration: 2.7s; animation-delay: 0.8s; color: #702042;">01C_CODE_UNSL</div>
       <div class="m-col" style="left: 95%; animation-duration: 3.3s; animation-delay: 1.2s;">0101JACKVVL01</div>
+
+      <div class="m-col" style="left: 70%; animation-duration: 1.8s; animation-delay: 0.5s; color: #702042;">0101STATUS010</div>
+      <div class="m-col" style="left: 78%; animation-duration: 1.0s; animation-delay: 1.7s;">010101BUILDING</div>
+      <div class="m-col" style="left: 83%; animation-duration: 1.7s; animation-delay: 0.8s; color: #702042;">01C_CODE_UNSL</div>
+      <div class="m-col" style="left: 87%; animation-duration: 1.3s; animation-delay: 1.2s;">0101JACKVVL01</div>
+      <div class="m-col" style="left: 90%; animation-duration: 1.0s; animation-delay: 1.7s;">010101BUILDING</div>
+
+      
     </div>
   </foreignObject>
 </svg>
