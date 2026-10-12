@@ -6,7 +6,6 @@
 
 
 
-<img width="100%" height="400" style="object-fit: cover;" src="https://github.com/user-attachments/assets/15cce71b-d01b-4364-985a-b7759ca25369"  />
 
 
 
