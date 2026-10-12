@@ -16,7 +16,7 @@
        style="border-radius: 12px; border: 1px solid #30363d; object-fit: contain; max-width: 350px;" />
 </td>
 
-<img width="100%" height="400" style="object-fit: cover;" src="https://github.com/user-attachments/assets/15cce71b-d01b-4364-985a-b7759ca25369"  />
+<img width="50%" height="400" style="object-fit: cover;" src="https://github.com/user-attachments/assets/15cce71b-d01b-4364-985a-b7759ca25369"  />
 
 
 
