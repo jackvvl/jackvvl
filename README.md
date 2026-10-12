@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./jack-villa.svg" alt="Jack Villa" width="100%">
+  <img src="./matrix-rain.svg" alt="Matrix Rain" width="100%">
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Buenassss;:vvvvvvvvvvvvvvvvvvvv" alt="Typing SVG" />
