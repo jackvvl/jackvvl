@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="100%">
+  <defs>
+    <style>
+      .bg {
+        fill: #0d1117;
+        stroke: #30363d;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+
+  <!-- Fondo oscuro con bordes redondeados igual que GitHub -->
+  <rect class="bg" width="100%" height="100%" rx="16" />
+
+  <!-- Lluvia de código animada en tono rosa/fucsia -->
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="position: relative; width: 100%; height: 100%; overflow: hidden; border-radius: 16px;">
+      <style>
+        .m-col {
+          position: absolute;
+          top: -120px;
+          font-family: monospace;
+          font-size: 14px;
+          color: #ff2a85;
+          line-height: 1.1;
+          letter-spacing: 2px;
+          writing-mode: vertical-rl;
+          animation: matrixFall linear infinite;
+        }
+        @keyframes matrixFall {
+          0% { transform: translateY(-100px); opacity: 0; }
+          15% { opacity: 0.85; }
+          85% { opacity: 0.85; }
+          100% { transform: translateY(320px); opacity: 0; }
+        }
+      </style>
+      <div class="m-col" style="left: 6%; animation-duration: 3.2s; animation-delay: 0s;">010101C010STRUCT</div>
+      <div class="m-col" style="left: 14%; animation-duration: 4.1s; animation-delay: 1.1s; color: #702042;">1010DEV01UNSL</div>
+      <div class="m-col" style="left: 23%; animation-duration: 2.9s; animation-delay: 0.4s;">01MAIN0101JACK</div>
+      <div class="m-col" style="left: 32%; animation-duration: 4.6s; animation-delay: 2.0s; color: #702042;">1100101010011</div>
+      <div class="m-col" style="left: 41%; animation-duration: 3.5s; animation-delay: 0.7s;">010C-LANG0101</div>
+      <div class="m-col" style="left: 52%; animation-duration: 3.9s; animation-delay: 1.4s; color: #702042;">0101010110101</div>
+      <div class="m-col" style="left: 61%; animation-duration: 3.1s; animation-delay: 0.2s;">PRINTF("%s", me)</div>
+      <div class="m-col" style="left: 70%; animation-duration: 4.3s; animation-delay: 2.3s; color: #702042;">01VILLA010UNSL</div>
+      <div class="m-col" style="left: 79%; animation-duration: 3.4s; animation-delay: 0.9s;">1010010101101</div>
+      <div class="m-col" style="left: 88%; animation-duration: 3.8s; animation-delay: 0.5s; color: #702042;">0101STATUS010</div>
+      <div class="m-col" style="left: 95%; animation-duration: 3.0s; animation-delay: 1.7s;">010101BUILDING</div>
+    </div>
+  </foreignObject>
+</svg>
