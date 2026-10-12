@@ -4,19 +4,8 @@
 </p>
 
 
-<!-- COLUMNA DERECHA: LOS GATITOS BAILARINES (ACHICADOS) -->
-<td width="45%" valign="middle" align="center" style="border: none; padding-left: 20px;">
-  
-  <h3 style="color: #ff2a85; font-family: monospace;">// El Toque Importante</h3>
-  
-  <!-- Ajustamos el ancho al 100% de ESTA COLUMNA, eliminando el height="400" fijo para que no se deforme -->
-  <img src="https://github.com/user-attachments/assets/15cce71b-d01b-4364-985a-b7759ca25369" 
-       alt="Gatitos Bailarines Achicados" 
-       width="100%" 
-       style="border-radius: 12px; border: 1px solid #30363d; object-fit: contain; max-width: 350px;" />
-</td>
 
-<img width="50%" height="400" style="object-fit: cover;" src="https://github.com/user-attachments/assets/15cce71b-d01b-4364-985a-b7759ca25369"  />
+<img width="50%" style="object-fit: cover;" src="https://github.com/user-attachments/assets/15cce71b-d01b-4364-985a-b7759ca25369"  />
 
 
 
