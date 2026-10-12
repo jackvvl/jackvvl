@@ -55,7 +55,6 @@
       <div class="m-col" style="left: 27%; animation-duration: 1.6s; animation-delay: 2.0s; color: #702042;">1100101010011</div>
       <div class="m-col" style="left: 35%; animation-duration: 1.5s; animation-delay: 0.7s;">010C-LANG0101</div>
       <div class="m-col" style="left: 45%; animation-duration: 1.9s; animation-delay: 1.4s; color: #702042;">0101010110101</div>
-      <div class="m-col" style="left: 49%; animation-duration: 2.1s; animation-delay: 0.2s;">PRINTF("%s", me)</div>
       <div class="m-col" style="left: 50%; animation-duration: 4.3s; animation-delay: 2.3s; color: #702042;">01VILLA010UNSL</div>
       <div class="m-col" style="left: 60%; animation-duration: 2.4s; animation-delay: 0.9s;">1010010101101</div>
       <div class="m-col" style="left: 70%; animation-duration: 2.8s; animation-delay: 0.5s; color: #702042;">0101STATUS010</div>
