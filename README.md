@@ -3,11 +3,13 @@
   <img src="./matrix-rain.svg" alt="Matrix Rain" width="100%">
 </p>
 
+<center> 
+<img width="30%" height="30%" style="object-fit: cover;" src="https://github.com/user-attachments/assets/15cce71b-d01b-4364-985a-b7759ca25369"  />
+<img width="30%" height="30%" style="object-fit: cover;" src="https://github.com/user-attachments/assets/15cce71b-d01b-4364-985a-b7759ca25369"  />
+<img width="30%" height="30%" style="object-fit: cover;" src="https://github.com/user-attachments/assets/15cce71b-d01b-4364-985a-b7759ca25369"  />
 
+</center>
 
-<img width="30%" height="30%" style="object-fit: cover;" src="https://github.com/user-attachments/assets/15cce71b-d01b-4364-985a-b7759ca25369"  />
-<img width="30%" height="30%" style="object-fit: cover;" src="https://github.com/user-attachments/assets/15cce71b-d01b-4364-985a-b7759ca25369"  />
-<img width="30%" height="30%" style="object-fit: cover;" src="https://github.com/user-attachments/assets/15cce71b-d01b-4364-985a-b7759ca25369"  />
 
 
 
