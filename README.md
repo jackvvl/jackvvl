@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./jack-villa.svg" alt="Jack Villa" width="100%">
+  <img src="./jack-villa.svg" alt="Jaqui Villa" width="100%">
   <img src="./matrix-rain.svg" alt="Matrix Rain" width="100%">
 </p>
 
